@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "haleyumu_test";
-$password = "203658sb.";
-$dbname = "haleyumu_bozum";
+$username = "";
+$password = "";
+$dbname = "";
 
 try {
     $dsn = "mysql:host=$servername;dbname=$dbname;charset=utf8";
