@@ -24,7 +24,8 @@ Bu proje, kullanıcıların belirli bir tutarı bozmak istediğinde sistem üzer
 - HTML/CSS (Bootstrap)
 - JavaScript 
 
-🔗 Canlı Demo
+## 🔗 Canlı Demo
+
 👉 [Projeyi buradan inceleyebilirsiniz]
 
 https://haleyumuk.com/yonetim/bozum/bozum/giris.php
